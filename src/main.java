@@ -1,8 +1,5 @@
 
 /**
- * Java Arrays and Methods Assignment
- * Author: [Your Name]
- * Date: [Today's Date]
  * 
  * This program demonstrates how to work with arrays, loops, and methods in Java.
  * Each numbered section corresponds to a specific task from the assignment.
